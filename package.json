@@ -1,0 +1,24 @@
+{
+  "name": "semordnilap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateChiarenza/semordnilap.git"
+  },
+  "author": "Nate Chiarenza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NateChiarenza/semordnilap/issues"
+  },
+  "homepage": "https://github.com/NateChiarenza/semordnilap#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.7"
+  }
+}
