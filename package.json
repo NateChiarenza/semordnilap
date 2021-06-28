@@ -19,6 +19,7 @@
   "homepage": "https://github.com/NateChiarenza/semordnilap#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "sys": "^0.0.1"
   }
 }
